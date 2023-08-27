@@ -1,7 +1,9 @@
 # ortak-calisma
 
-
 Katkıda bulunan HiCoders üyeleri
 
--------------------
- , Serkan Sönmez
+---
+
+, Serkan Sönmez
+
+git reset --hard
